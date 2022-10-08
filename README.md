@@ -3,7 +3,7 @@ My first express.js project
 
 
 
-to access the app visit link : git push -u origin main
+to access the app visit link : https://insta-social-abhinavonweb.herokuapp.com/
 
 
 
